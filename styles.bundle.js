@@ -62,7 +62,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\nbody {\n    background-color: #4169e1;\n}\np {\n  font-family: sans-serif;\n  font-size: 25px;\n  text-align:justify;\n  margin-top:25px;\n}\nul {\n  margin-top:25px;\n}\nli {\n  font-family: sans-serif;\n  font-size: 25px;\n  text-align:justify;\n}\n.margincss {\n  margin-left:100px;\n  margin-right:100px;\n  margin-bottom:50px;\n  margin-top:50px;\n}\nh1 {\n  font-weight: bold;\n}\nh2 {\n  font-style: italic;\n}\n", ""]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\nbody {\n    background-color: #4169e1;\n}\np {\n  font-family: sans-serif;\n  font-size: 2.5vmin;\n  text-align:justify;\n  margin-top:2.5vmin;\n}\n/*\nul {\n  margin-top:3vmin;\n}\n*/\nli {\n  font-family: sans-serif;\n  font-size: 2.5vmin;\n  text-align:justify;\n}\n.margincss {\n  margin-left:10vmin;\n  margin-right:10vmin;\n  margin-bottom:5vmin;\n  margin-top:5vmin;\n}\nh1 {\n  font-weight: bold;\n  font-size: 4vmin;\n}\nh2 {\n  font-style: italic;\n  font-size: 3vmin;\n}\n", ""]);
 
 // exports
 
